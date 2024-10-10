@@ -12,3 +12,5 @@ My plan? To create my own projects. Picture this: transforming my month-long Eur
 
 # Portfolio
 Here’s the roadmap of my journey to becoming a cool data storyteller.
+
+# Fianl Project
