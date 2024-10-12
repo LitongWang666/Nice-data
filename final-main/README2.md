@@ -1,6 +1,6 @@
 # Current Status of TikTok in China - Data Visualization Story Outline
 
-https://preview.shorthand.com/22N5sx6XvGFK9Gfh
+*[viz link](https://preview.shorthand.com/22N5sx6XvGFK9Gfh)
 
 ### 1. The Rapid Growth of TikTok Users and Information Dissemination
 
