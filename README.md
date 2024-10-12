@@ -11,3 +11,6 @@ My portfolio page for Telling Story with Data at CMU :)
 
 
 # Fianl Project
+* [PART I](/final-main/README.md)
+* [PART II](/final-part2.md)
+* [PART III](/final-part3.md)
