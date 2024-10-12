@@ -8,9 +8,9 @@ My portfolio page for Telling Story with Data at CMU :)
 
 
 # Portfolio
-* [Portfolio](/portfolio-main/README.md)    
+* [Final URL](/final-main/README.md)
 
 # Fianl Project
-* [Final URL](/final-main/README.md)
-* [PART II](/final-part2.md)
-* [PART III](/final-main/README.md)
+* [Final 1](/final-main/README final1.md)
+* [PART II](/final-main/README final2.md)
+* [PART III](/final-main/README final3.md)
